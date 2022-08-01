@@ -13,7 +13,8 @@
 
 **OR**
 1. [Python3](https://www.python.org/downloads/)
-2. Run the command below:
+2. Download the requirements.txt file
+3. Run the command below in the same directory as the requirements.txt file:
     ```
     python3 -m pip install -r requirements.txt
     ```
